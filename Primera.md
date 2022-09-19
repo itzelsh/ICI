@@ -4,7 +4,7 @@
 #### 1.1 Descripción del problema
 Escribir una función que reciba un mensaje y un nombre
 y escribe en panatalla "__mensaje nombre__"
-#### 1.2 Codigo
+#### 1.2 Codigo  
 '' python
 def mensaje(msg:str,nom:str)->str:
  return f"{msg} {nom}"
